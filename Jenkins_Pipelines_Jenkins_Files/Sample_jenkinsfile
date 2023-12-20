@@ -28,7 +28,7 @@ pipeline {
                 // Build your application here (e.g., compile, package, etc.)
                 sh '''
                 ls
-                echo "In Build Step"
+                echo "In Build Step for fun"
                 '''
             }
         }
